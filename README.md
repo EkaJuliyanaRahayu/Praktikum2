@@ -128,7 +128,7 @@ mereka menggunakan access modifier `public`, berarti mereka dapat dipanggil dilu
 <p>• Method setter (setNama, setUmur) digunakan untuk mengubah nilai atribut nama dan umur dari objek (Anton dan Riko).</p>
 <p>• Setelah perubahan melalui setter, maka informasi baru dari kedua objek ditampilkan menggunakan getter.</p>
 
-## INPUT
+## Kode Keseluruhan
 ```
 
 package person;

@@ -1,6 +1,6 @@
 # Praktikum2
 
-| Variabel | Isi |
+| | |
 | -------- | --- |
 |**Nama**| Eka Juliyana Rahayu |
 |**NIM** | 312310594 |

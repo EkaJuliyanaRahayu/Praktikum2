@@ -1,5 +1,11 @@
 # Praktikum2
 
+| Variabel | Isi |
+| -------- | --- |
+|**Nama**| Eka Juliyana Rahayu |
+|**NIM** | 312310594 |
+|**Kelas** | TI.23.A6 |
+
 <p>Buatlah kode program java untuk:</p>
 <p>• Mendeklarasikan class Person, dengan
 atribut Nama, JenisKelamin, Umur dan
